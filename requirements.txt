@@ -12,7 +12,7 @@ hyperpyyaml
 pynvml
 
 # CosyVoice
-# https://github.com/chenxwh/CosyVoice
+# https://github.com/FunAudioLLM/CosyVoice
 --extra-index-url https://download.pytorch.org/whl/cu121
 --extra-index-url https://aiinfra.pkgs.visualstudio.com/PublicPackages/_packaging/onnxruntime-cuda-12/pypi/simple/ # https://github.com/microsoft/onnxruntime/issues/21684
 conformer==0.3.2
@@ -53,3 +53,4 @@ transformers==4.40.1
 uvicorn==0.30.0
 wetext==0.0.4
 wget==3.2
+
