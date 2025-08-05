@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+redis
+numpy
+torch
+torchaudio
+librosa
+hyperpyyaml
+pynvml
